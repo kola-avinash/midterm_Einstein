@@ -1,0 +1,3 @@
+Netlify : https://einsteinavinash.netlify.app/
+
+GitHub: https://github.com/kola-avinash/midterm_Einstein.git
